@@ -1,5 +1,7 @@
 # Running the hugging face client demo
 
+> https://github.com/huggingface/huggingface.js/tree/main/packages/mcp-client
+
 1. Install hugging face dependencies and login
 
 ```bash
